@@ -1,5 +1,4 @@
 # BOSTON-HOUSE-PRICE-PREDICTOR
-#SHADOWFOX
 The Boston House Price Prediction project utilizes data science methodologies and machine learning algorithms to provide accurate predictions for housing prices in the Boston area.By leveraging the Boston Housing dataset and employing model selection techniques and fitting machine learning algorithms, this project aims to assist individuals in making informed decisions related to buying, selling, or investing in real estate, ultimately benefiting both homebuyers and industry professionals.
 
 Problem Statement:
